@@ -1,7 +1,7 @@
 {
-  "version": "1.14",
-  "md5": "",
-  "size": 0,
+  "version": "1.15",
+  "md5": "bf01ac2969d3d14b1a07ca5bc6d7454b",
+  "size": 1319024,
   "url": "https://raw.githubusercontent.com/GleisMon/TrackMeter-firmware/main/firmware/TrackMeter.bin",
-  "notes": "Baseline. Binary arrives with the next release."
+  "notes": "Toggle-cancel waypoint marks; first OTA release from public repo"
 }
