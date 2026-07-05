@@ -1,7 +1,7 @@
 {
-  "version": "1.15",
-  "md5": "bf01ac2969d3d14b1a07ca5bc6d7454b",
-  "size": 1319024,
+  "version": "1.17",
+  "md5": "e9fa461116259c27e2b6d2ca90baac26",
+  "size": 1319536,
   "url": "https://raw.githubusercontent.com/GleisMon/TrackMeter-firmware/main/firmware/TrackMeter.bin",
-  "notes": "Toggle-cancel waypoint marks; first OTA release from public repo"
+  "notes": "Idle screen: web address shown big and complete"
 }
