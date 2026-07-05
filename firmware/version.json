@@ -1,7 +1,7 @@
 {
-  "version": "1.17",
-  "md5": "e9fa461116259c27e2b6d2ca90baac26",
-  "size": 1319536,
+  "version": "1.20",
+  "md5": "a12a2b05cf45da9853fce6e8bac69499",
+  "size": 1319296,
   "url": "https://raw.githubusercontent.com/GleisMon/TrackMeter-firmware/main/firmware/TrackMeter.bin",
-  "notes": "Idle screen: web address shown big and complete"
+  "notes": "OTA pipeline test release"
 }
