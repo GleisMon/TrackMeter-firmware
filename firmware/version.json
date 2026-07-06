@@ -1,7 +1,7 @@
 {
-  "version": "1.20",
-  "md5": "a12a2b05cf45da9853fce6e8bac69499",
-  "size": 1319296,
+  "version": "1.21",
+  "md5": "a62e63cf652d467ca7ed1f3f4d3eb496",
+  "size": 1320208,
   "url": "https://raw.githubusercontent.com/GleisMon/TrackMeter-firmware/main/firmware/TrackMeter.bin",
-  "notes": "OTA pipeline test release"
+  "notes": "Prominent auto-hiding time-sync card; identity/time split in settings"
 }
