@@ -1,7 +1,7 @@
 {
-  "version": "1.21",
-  "md5": "a62e63cf652d467ca7ed1f3f4d3eb496",
-  "size": 1320208,
+  "version": "1.24",
+  "md5": "ced855c9a5cbee3c9565a0497e61e05d",
+  "size": 1326560,
   "url": "https://raw.githubusercontent.com/GleisMon/TrackMeter-firmware/main/firmware/TrackMeter.bin",
-  "notes": "Prominent auto-hiding time-sync card; identity/time split in settings"
+  "notes": "Button backlight LEDs (v1.23) + 180\u00b0 display flip in settings (v1.24)"
 }
