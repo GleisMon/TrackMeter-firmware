@@ -1,7 +1,7 @@
 {
-  "version": "1.26",
-  "md5": "578dbcea364857c720d38c2812453357",
-  "size": 1299280,
+  "version": "2.0",
+  "md5": "bffa95c37864b48a5e33e84ccda73c9f",
+  "size": 1301408,
   "url": "https://raw.githubusercontent.com/GleisMon/TrackMeter-firmware/main/firmware/TrackMeter.bin",
-  "notes": "Large distance font on small OLED; pause/reverse icon"
+  "notes": "v2.0 \u2014 TFT screen redesign (proximity zones, hero distance, progress segments)"
 }
