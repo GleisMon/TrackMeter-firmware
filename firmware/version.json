@@ -1,7 +1,7 @@
 {
-  "version": "2.2",
-  "md5": "469c0e381bf3935042b0f7ed99f6ab2e",
+  "version": "2.4",
+  "md5": "cebdbc4f5abd892b22f3ed502946e8dc",
   "size": 1303056,
   "url": "https://raw.githubusercontent.com/GleisMon/TrackMeter-firmware/main/firmware/TrackMeter.bin",
-  "notes": "v2.2 \u2014 screen flipped by default, Cyrillic NEXT names, 10m approach bar"
+  "notes": "v2.4 \u2014 fix: saved screen flip now restored at boot"
 }
