@@ -1,7 +1,7 @@
 {
-  "version": "1.4",
-  "md5": "a3e1b13410d53166447f8a29d688351f",
-  "size": 1688496,
+  "version": "1.41",
+  "md5": "95cf87b093619a2de4a8a91662f4e5cc",
+  "size": 1678640,
   "url": "https://raw.githubusercontent.com/GleisMon/TrackMeter-firmware/main/firmware35/TrackMeter35.bin",
-  "notes": "TrackMeter35 v1.4 — часы по NTP (время Германии, летнее/зимнее само); из v1.3: счёт энкодера без переворота, «Реверс счёта» запоминается"
+  "notes": "TrackMeter35 v1.41 — счёт энкодера снова перевёрнут (на рельсе едет вперёд), реверс начат заново; версии сравниваются как десятичные"
 }
