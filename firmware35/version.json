@@ -1,0 +1,7 @@
+{
+  "version": "1.2",
+  "md5": "bde1537c2e94535b4c148029c0c8faae",
+  "size": 1685168,
+  "url": "https://raw.githubusercontent.com/GleisMon/TrackMeter-firmware/main/firmware35/TrackMeter35.bin",
+  "notes": "TrackMeter35 v1.2 — маршруты с gmon.win, дата и время в заголовке, по умолчанию реверс энкодера и перевёрнутый экран"
+}
